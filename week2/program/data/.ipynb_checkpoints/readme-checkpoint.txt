@@ -1,0 +1,1 @@
+The data is provided by https://www.coursera.org/learn/datavisualization/supplement/m6KuV/programming-assignment-1-visualize-data-using-a-chart
