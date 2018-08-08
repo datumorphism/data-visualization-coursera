@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="344px" height="105px" viewBox="-15 -72 344 125">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .markmap-node {
+        cursor: pointer;
+      }
+
+      .markmap-node-circle {
+        fill: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .markmap-node-text {
+        fill:  #000;
+        font: 10px sans-serif;
+      }
+
+      .markmap-link {
+        fill: none;
+      }
+    ]]></style>
+  </defs>
+  <g><path class="markmap-link" stroke="#929292" stroke-width="1" d="M121.080078125,0C151.080078125,0 151.080078125,-37.5 181.080078125,-37.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M121.080078125,0C151.080078125,0 151.080078125,-12.5 181.080078125,-12.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M121.080078125,0C151.080078125,0 151.080078125,12.5 181.080078125,12.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M121.080078125,0C151.080078125,0 151.080078125,37.5 181.080078125,37.5"></path><g class="markmap-node" transform="translate(181.080078125,37.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="74.9208984375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="72.9208984375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Dashboard</text></g><g class="markmap-node" transform="translate(181.080078125,12.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="95.8486328125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="93.8486328125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Visual Analytics</text></g><g class="markmap-node" transform="translate(181.080078125,-12.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="134.2177734375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="132.2177734375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Large Data Visualization</text></g><g class="markmap-node" transform="translate(181.080078125,-37.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="134.7646484375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="132.7646484375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Information Visualization</text></g><g class="markmap-node" transform="translate(0,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="123.080078125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="121.080078125" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Visualization Systems</text></g></g>
+</svg>

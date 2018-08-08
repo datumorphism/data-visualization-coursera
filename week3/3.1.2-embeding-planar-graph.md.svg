@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="711px" height="110px" viewBox="-15 -87 711 130">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .markmap-node {
+        cursor: pointer;
+      }
+
+      .markmap-node-circle {
+        fill: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .markmap-node-text {
+        fill:  #000;
+        font: 10px sans-serif;
+      }
+
+      .markmap-link {
+        fill: none;
+      }
+    ]]></style>
+  </defs>
+  <g><path class="markmap-link" stroke="#929292" stroke-width="1" d="M440.3447265625,-27.5C470.3447265625,-27.5 470.3447265625,-52.5 500.3447265625,-52.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M440.3447265625,-27.5C470.3447265625,-27.5 470.3447265625,-27.5 500.3447265625,-27.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M440.3447265625,-27.5C470.3447265625,-27.5 470.3447265625,-2.5 500.3447265625,-2.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M290.8857421875,0C320.8857421875,0 320.8857421875,-27.5 350.8857421875,-27.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M290.8857421875,0C320.8857421875,0 320.8857421875,27.5 350.8857421875,27.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M131.28515625,0C161.28515625,0 161.28515625,0 191.28515625,0"></path><g class="markmap-node" transform="translate(350.8857421875,27.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="208.9052734375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="206.9052734375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Iteration: each node should the the ave…</text></g><g class="markmap-node" transform="translate(500.3447265625,-2.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="173.5830078125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="171.5830078125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Solve A X = B for the coordinates</text></g><g class="markmap-node" transform="translate(500.3447265625,-27.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="102.982421875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="100.982421875" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Calculate A= I - L</text></g><g class="markmap-node" transform="translate(500.3447265625,-52.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="182.1767578125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="180.1767578125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Adjacency Matrix Laplacian Form L</text></g><g class="markmap-node" transform="translate(350.8857421875,-27.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="91.458984375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="89.458984375" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Tutte's Method</text></g><g class="markmap-node" transform="translate(191.28515625,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="101.6005859375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="99.6005859375" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Graph Embeding</text></g><g class="markmap-node" transform="translate(0,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="133.28515625" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="131.28515625" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Embeding Planar Graph</text></g></g>
+</svg>

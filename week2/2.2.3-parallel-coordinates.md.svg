@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="414px" height="55px" viewBox="-15 -47 414 75">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .markmap-node {
+        cursor: pointer;
+      }
+
+      .markmap-node-circle {
+        fill: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .markmap-node-text {
+        fill:  #000;
+        font: 10px sans-serif;
+      }
+
+      .markmap-link {
+        fill: none;
+      }
+    ]]></style>
+  </defs>
+  <g><path class="markmap-link" stroke="#929292" stroke-width="1" d="M114.048828125,0C144.048828125,0 144.048828125,-12.5 174.048828125,-12.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M114.048828125,0C144.048828125,0 144.048828125,12.5 174.048828125,12.5"></path><g class="markmap-node" transform="translate(174.048828125,12.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="192.748046875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="190.748046875" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Co-linear points maps to parallel lines</text></g><g class="markmap-node" transform="translate(174.048828125,-12.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="212.1865234375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="210.1865234375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Convert High Dimensional Scatter Plot t…</text></g><g class="markmap-node" transform="translate(0,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="116.048828125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="114.048828125" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Parallel Coordinates</text></g></g>
+</svg>

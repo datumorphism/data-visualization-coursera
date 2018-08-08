@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="485px" height="85px" viewBox="-15 -56 485 105">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .markmap-node {
+        cursor: pointer;
+      }
+
+      .markmap-node-circle {
+        fill: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .markmap-node-text {
+        fill:  #000;
+        font: 10px sans-serif;
+      }
+
+      .markmap-link {
+        fill: none;
+      }
+    ]]></style>
+  </defs>
+  <g><path class="markmap-link" stroke="#929292" stroke-width="1" d="M200.0654296875,21.25C230.0654296875,21.25 230.0654296875,8.75 260.0654296875,8.75"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M200.0654296875,21.25C230.0654296875,21.25 230.0654296875,33.75 260.0654296875,33.75"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M205.9931640625,-21.25C235.9931640625,-21.25 235.9931640625,-21.25 265.9931640625,-21.25"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M71.421875,0C101.421875,0 101.421875,-21.25 131.421875,-21.25"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M71.421875,0C101.421875,0 101.421875,21.25 131.421875,21.25"></path><g class="markmap-node" transform="translate(260.0654296875,33.75)"><rect class="markmap-node-rect" y="-10" x="-1" width="196.6689453125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="194.6689453125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Method: calculate weight at each node</text></g><g class="markmap-node" transform="translate(260.0654296875,8.75)"><rect class="markmap-node-rect" y="-10" x="-1" width="133.275390625" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="131.275390625" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Map Quantities to Areas</text></g><g class="markmap-node" transform="translate(131.421875,21.25)"><rect class="markmap-node-rect" y="-10" x="-1" width="70.6435546875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="68.6435546875" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Treemaps</text></g><g class="markmap-node" transform="translate(265.9931640625,-21.25)"><rect class="markmap-node-rect" y="-10" x="-1" width="52.6845703125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="50.6845703125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Depth</text></g><g class="markmap-node" transform="translate(131.421875,-21.25)"><rect class="markmap-node-rect" y="-10" x="-1" width="76.5712890625" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="74.5712890625" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Hierarchies</text></g><g class="markmap-node" transform="translate(0,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="73.421875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="71.421875" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Tree Maps</text></g></g>
+</svg>

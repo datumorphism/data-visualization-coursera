@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="423px" height="110px" viewBox="-15 -75 423 130">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .markmap-node {
+        cursor: pointer;
+      }
+
+      .markmap-node-circle {
+        fill: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .markmap-node-text {
+        fill:  #000;
+        font: 10px sans-serif;
+      }
+
+      .markmap-link {
+        fill: none;
+      }
+    ]]></style>
+  </defs>
+  <g><path class="markmap-link" stroke="#929292" stroke-width="1" d="M190.8125,10C220.8125,10 220.8125,10 250.8125,10"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M59.576171875,0C89.576171875,0 89.576171875,-40 119.576171875,-40"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M59.576171875,0C89.576171875,0 89.576171875,-15 119.576171875,-15"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M59.576171875,0C89.576171875,0 89.576171875,10 119.576171875,10"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M59.576171875,0C89.576171875,0 89.576171875,40 119.576171875,40"></path><g class="markmap-node" transform="translate(119.576171875,40)"><rect class="markmap-node-rect" y="-10" x="-1" width="74.9208984375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="72.9208984375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Choropleth</text></g><g class="markmap-node" transform="translate(250.8125,10)"><rect class="markmap-node-rect" y="-10" x="-1" width="143.8271484375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="141.8271484375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">How to create a cartogram</text></g><g class="markmap-node" transform="translate(119.576171875,10)"><rect class="markmap-node-rect" y="-10" x="-1" width="73.236328125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="71.236328125" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Cartogram</text></g><g class="markmap-node" transform="translate(119.576171875,-15)"><rect class="markmap-node-rect" y="-10" x="-1" width="61.576171875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="59.576171875" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Packing</text></g><g class="markmap-node" transform="translate(119.576171875,-40)"><rect class="markmap-node-rect" y="-10" x="-1" width="78.6171875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="76.6171875" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Word Cloud</text></g><g class="markmap-node" transform="translate(0,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="61.576171875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="59.576171875" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Packing</text></g></g>
+</svg>

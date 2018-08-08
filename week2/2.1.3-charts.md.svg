@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="219px" height="130px" viewBox="-15 -85 219 150">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .markmap-node {
+        cursor: pointer;
+      }
+
+      .markmap-node-circle {
+        fill: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .markmap-node-text {
+        fill:  #000;
+        font: 10px sans-serif;
+      }
+
+      .markmap-link {
+        fill: none;
+      }
+    ]]></style>
+  </defs>
+  <g><path class="markmap-link" stroke="#929292" stroke-width="1" d="M53.453125,0C83.453125,0 83.453125,-50 113.453125,-50"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M53.453125,0C83.453125,0 83.453125,-25 113.453125,-25"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M53.453125,0C83.453125,0 83.453125,0 113.453125,0"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M53.453125,0C83.453125,0 83.453125,25 113.453125,25"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M53.453125,0C83.453125,0 83.453125,50 113.453125,50"></path><g class="markmap-node" transform="translate(113.453125,50)"><rect class="markmap-node-rect" y="-10" x="-1" width="49.90625" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="47.90625" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Table</text></g><g class="markmap-node" transform="translate(113.453125,25)"><rect class="markmap-node-rect" y="-10" x="-1" width="77.689453125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="75.689453125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Gantt Chart</text></g><g class="markmap-node" transform="translate(113.453125,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="77.689453125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="75.689453125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Scatter Plot</text></g><g class="markmap-node" transform="translate(113.453125,-25)"><rect class="markmap-node-rect" y="-10" x="-1" width="72.1376953125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="70.1376953125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Line Chart</text></g><g class="markmap-node" transform="translate(113.453125,-50)"><rect class="markmap-node-rect" y="-10" x="-1" width="68.79296875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="66.79296875" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Bar Chart</text></g><g class="markmap-node" transform="translate(0,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="55.453125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="53.453125" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Charts</text></g></g>
+</svg>

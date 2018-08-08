@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="478px" height="147px" viewBox="-15 -87 478 167">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .markmap-node {
+        cursor: pointer;
+      }
+
+      .markmap-node-circle {
+        fill: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .markmap-node-text {
+        fill:  #000;
+        font: 10px sans-serif;
+      }
+
+      .markmap-link {
+        fill: none;
+      }
+    ]]></style>
+  </defs>
+  <g><path class="markmap-link" stroke="#929292" stroke-width="1" d="M273.0927734375,52.5C303.0927734375,52.5 303.0927734375,40 333.0927734375,40"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M273.0927734375,52.5C303.0927734375,52.5 303.0927734375,65 333.0927734375,65"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M95.7041015625,0C125.7041015625,0 125.7041015625,-52.5 155.7041015625,-52.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M95.7041015625,0C125.7041015625,0 125.7041015625,-27.5 155.7041015625,-27.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M95.7041015625,0C125.7041015625,0 125.7041015625,-2.5 155.7041015625,-2.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M95.7041015625,0C125.7041015625,0 125.7041015625,22.5 155.7041015625,22.5"></path><path class="markmap-link" stroke="#929292" stroke-width="1" d="M95.7041015625,0C125.7041015625,0 125.7041015625,52.5 155.7041015625,52.5"></path><g class="markmap-node" transform="translate(333.0927734375,65)"><rect class="markmap-node-rect" y="-10" x="-1" width="116.6103515625" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="114.6103515625" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Streamgraph Layout</text></g><g class="markmap-node" transform="translate(333.0927734375,40)"><rect class="markmap-node-rect" y="-10" x="-1" width="113.2607421875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="111.2607421875" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">ThemeRiver Layout</text></g><g class="markmap-node" transform="translate(155.7041015625,52.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="119.388671875" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="117.388671875" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Stacked Line Graphs</text></g><g class="markmap-node" transform="translate(155.7041015625,22.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="159.9453125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="157.9453125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Diverging STacked Bar Charts</text></g><g class="markmap-node" transform="translate(155.7041015625,-2.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="213.0361328125" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="211.0361328125" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Order of Stacked Bars (Position &gt; Lengt…</text></g><g class="markmap-node" transform="translate(155.7041015625,-27.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="146.6103515625" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="144.6103515625" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Relative Stacked Bar Chart</text></g><g class="markmap-node" transform="translate(155.7041015625,-52.5)"><rect class="markmap-node-rect" y="-10" x="-1" width="149.3984375" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="147.3984375" stroke="#929292" r="4.5" style="display: none;"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Absolute Stacked Bar Chart</text></g><g class="markmap-node" transform="translate(0,0)"><rect class="markmap-node-rect" y="-10" x="-1" width="97.7041015625" height="20" fill="#dfdfdf" rx="10" ry="10" stroke="#929292" stroke-width="1"></rect><circle class="markmap-node-circle" cx="95.7041015625" stroke="#929292" r="4.5"></circle><text class="markmap-node-text" x="10" dy="3" text-anchor="start" style="fill-opacity: 1;">Stacked Graphs</text></g></g>
+</svg>
